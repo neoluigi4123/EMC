@@ -11,6 +11,8 @@ Ce github sert uniquement d'espace de stockage / passerelle entre les client **O
 		1. `Only selected repositories` > `neoluigi4123/EMC`.
 	5. Définir chaques permissions sur lecture et ecriture `red and write`
 3. Copier et coller le token dans obsidian `Fit` et remplir les champs.
+   
+Sinon: `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`
 
 # Conseils
 - Ajout du plugin sur obsidian **Advenced Slide** pour la creation du diaporama.
