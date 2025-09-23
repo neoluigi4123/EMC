@@ -11,9 +11,8 @@
 **Politique**:
 - Gestion du pays (vote de lois, président, ministre, député, etc...)
 
-**Média**:
-- Actualités
-- Influence sur la politique
+
+
 
 ---
 ### Sources
