@@ -10,6 +10,7 @@
 
 **Politique**:
 - Gestion du pays (vote de lois, président, ministre, député, etc...)
+- Dirigé par des humains
 
 Première IA élue : en Albanie en tant que Ministre des Marchés publics ([[Albanie]])
 
@@ -21,5 +22,3 @@ Première IA élue : en Albanie en tant que Ministre des Marchés publics ([[Alb
 | ----------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | wikipedia   | https://fr.wikipedia.org/wiki/D%C3%A9mocratie                                                                                                                   |
 | Ministre IA | https://www.franceinfo.fr/internet/intelligence-artificielle/en-albanie-une-ministre-generee-par-intelligence-artificielle-rejoint-le-gouvernement_7499959.html |
-
-
