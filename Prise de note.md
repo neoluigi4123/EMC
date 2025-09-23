@@ -1,18 +1,18 @@
 # Les consequences des medias sur la politique
 
 ---
-## Definition:
+## Définition:
 
 **Démocratie**:
-- Vote pour élire le president soit pouvoir appartenant au peuple
-- President: Gérant d'un pays
-- Ministre: Gère une partie du pays (education, finances, santé...)
+- Vote pour élire le président soit pouvoir appartenant au peuple
+- Président: Gérant d'un pays
+- Ministre: Gère une partie du pays (éducation, finances, santé, justice…)
 
 **Politique**:
-- Gestion du pays (vote de lois, president, ministre, deputé, etc...)
+- Gestion du pays (vote de lois, président, ministre, député, etc...)
 
 **Média**:
-- Actualitée
+- Actualités
 - Influence sur la politique
 
 ---
