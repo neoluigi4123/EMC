@@ -13,12 +13,12 @@
 
 
 
-
 ---
 ### Sources
 
-| Note      | URL                                           |
-| --------- | --------------------------------------------- |
-| wikipedia | https://fr.wikipedia.org/wiki/D%C3%A9mocratie |
+| Note        | URL                                                                                                                                                             |
+| ----------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| wikipedia   | https://fr.wikipedia.org/wiki/D%C3%A9mocratie                                                                                                                   |
+| Ministre IA | https://www.franceinfo.fr/internet/intelligence-artificielle/en-albanie-une-ministre-generee-par-intelligence-artificielle-rejoint-le-gouvernement_7499959.html |
 
 
