@@ -1,5 +1,5 @@
-# EMC
-Projet EMC
+# Description
+Ce github sert uniquement d'espace de stockage / passerelle entre les client **Obsidian**, profitant donc de la fluidité de production d'obsidian et du *versionning* de github.
 
 # Configuration
 1. Installer le plugin `Fit` sur obsidian.
