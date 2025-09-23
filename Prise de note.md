@@ -4,8 +4,8 @@
 ## Definition:
 
 **Démocratie**:
-- Vote du president soit pouvoir appartenant au peuple
-- President: Gèrant d'un pays
+- Vote pour élire le president soit pouvoir appartenant au peuple
+- President: Gérant d'un pays
 - Ministre: Gère une partie du pays (education, finances, santé...)
 
 **Politique**:
