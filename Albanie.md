@@ -3,4 +3,4 @@
 | République d'Albanie | Démocratie |
 ## Mise en contexte: avant l'élection
 
-[[Corruption]]
+L'Albanie était sous l'emprise d'une [[Corruption]]
