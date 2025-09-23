@@ -14,4 +14,4 @@ Projet EMC
 
 ---
 
-Le document [[Prise de note]] contiens les notes globales sur le projet.
+La note [[Prise de note]] contiens les notes globales sur le projet.
