@@ -1,4 +1,4 @@
-# Les consequences des medias sur la politique
+# L'integration d'ia dans la democratie
 
 ---
 ## Définition:
@@ -10,6 +10,8 @@
 
 **Politique**:
 - Gestion du pays (vote de lois, président, ministre, député, etc...)
+
+
 
 ---
 ### Sources
