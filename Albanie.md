@@ -1,4 +1,4 @@
-| nom        |     |
-| ---------- | --- |
-| R"publique |     |
+| nom                  | Régime     |
+| -------------------- | ---------- |
+| République d'Albanie | Démocratie |
 # Mise en contexte: avant l'élection
