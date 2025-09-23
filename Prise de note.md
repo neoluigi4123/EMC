@@ -11,9 +11,8 @@
 **Politique**:
 - Gestion du pays (vote de lois, président, ministre, député, etc...)
 
-Première IA élue : en Albanie en tant que Ministre des Marchés publics
+Première IA élue : en Albanie en tant que Ministre des Marchés publics ([[Albanie]])
 
-[[Albanie]]
 
 ---
 ### Sources
