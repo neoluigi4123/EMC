@@ -15,8 +15,8 @@
 ---
 ### Sources
 
-| Note                | URL                                                                                 |
-| ------------------- | ----------------------------------------------------------------------------------- |
-| wikipedia           | https://fr.wikipedia.org/wiki/D%C3%A9mocratie                                       |
-| media               | https://shs.cairn.info/revue-regards-croises-sur-l-economie-2016-1-page-123?lang=fr |
-| la place des medias | https://www.be-my-media.com/actualites/la-place-des-medias-dans-la-democratie/      |
+|           | URL                                                                                 |
+| --------- | ----------------------------------------------------------------------------------- |
+| wikipedia | https://fr.wikipedia.org/wiki/D%C3%A9mocratie                                       |
+| media     | https://shs.cairn.info/revue-regards-croises-sur-l-economie-2016-1-page-123?lang=fr |
+
