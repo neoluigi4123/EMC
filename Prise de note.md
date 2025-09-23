@@ -11,8 +11,6 @@
 **Politique**:
 - Gestion du pays (vote de lois, président, ministre, député, etc...)
 
-
-
 ---
 ### Sources
 
