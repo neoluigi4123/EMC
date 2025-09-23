@@ -23,3 +23,5 @@ Sinon: `github_pat_11AUIV5CI0OGFg8gt71rgH_pEVBmrCm3N4CsJMYizJD9rYvNgSqSnWNSq7sym
 # Notes
 
 La note [[Prise de note]] contiens les notes globales sur le projet.
+
+[[plan]] a suivre par rapport a la presentation.
