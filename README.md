@@ -18,4 +18,6 @@ Ce github sert uniquement d'espace de stockage / passerelle entre les client **O
 
 ---
 
+# Notes
+
 La note [[Prise de note]] contiens les notes globales sur le projet.
