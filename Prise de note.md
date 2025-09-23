@@ -1,4 +1,4 @@
-# L'integration des ia dans la politique 
+# L'integration d'ia dans la politique en Albanie
 
 ---
 ## Définition:
@@ -11,7 +11,6 @@
 **Politique**:
 - Gestion du pays (vote de lois, président, ministre, député, etc...)
 
-Première IA élue : en Albanie en tant quje
 
 ---
 ### Sources
