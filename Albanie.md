@@ -1,1 +1,1 @@
-# Mise en context: avant l'élection
+# Mise en contexte: avant l'élection
