@@ -12,11 +12,13 @@
 - Gestion du pays (vote de lois, président, ministre, député, etc...)
 
 
+
+
 ---
 ### Sources
 
-|           | URL                                                                                 |
-| --------- | ----------------------------------------------------------------------------------- |
-| wikipedia | https://fr.wikipedia.org/wiki/D%C3%A9mocratie                                       |
-| media     | https://shs.cairn.info/revue-regards-croises-sur-l-economie-2016-1-page-123?lang=fr |
+| Note      | URL                                           |
+| --------- | --------------------------------------------- |
+| wikipedia | https://fr.wikipedia.org/wiki/D%C3%A9mocratie |
+
 
