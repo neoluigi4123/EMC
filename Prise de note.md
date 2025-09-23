@@ -1,4 +1,4 @@
-# L'integration d'ia dans la democratie
+# L'integration d'ia dans la politique en Albanie
 
 ---
 ## Définition:
