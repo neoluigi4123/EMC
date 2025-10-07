@@ -12,7 +12,6 @@ Ce github sert uniquement d'espace de stockage / passerelle entre les client **O
 	5. Définir chaques permissions sur lecture et ecriture `red and write`
 3. Copier et coller le token dans obsidian `Fit` et remplir les champs.
 
-
 # Conseils
 - Ajout du plugin sur obsidian **Advenced Slide** pour la creation du diaporama.
 - Toujours passer via Obsidian pour modifier le contenu du referenciel github.
