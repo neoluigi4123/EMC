@@ -12,8 +12,8 @@ Pont Jérémy & Aguilera-Laurens Néo
 	2. Monarchie & Republique
 2. Diella
 	1. Presentation visuelle
-	2. Comment elle marche
-	3. Desavantage & avantage
+	2. Comment elle fonctionne
+	3. Avantage & Inconvéniants
 3. Conclusion
 
 ---
