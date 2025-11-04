@@ -3,7 +3,8 @@
 	2. Présentation globale + Thématique
 	3. Table des matières
 2. Situation de base l'Albanie
-	1. 
+	1. Monarchie & Republique
+	2. La république avant l'
 3. Diella
 	1. Le but
 	2. Les capabilitées
