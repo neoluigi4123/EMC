@@ -1,5 +1,5 @@
 **Description**: Premier ministre ia
-**Ministre**:Ministre 
+**Ministre**: Ministre des marchés publiques
 **Apparence**: Femme
 
 [[Ethique]]
