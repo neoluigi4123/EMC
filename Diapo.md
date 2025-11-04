@@ -22,11 +22,9 @@ Pont Jérémy & Aguilera-Laurens Néo
 
 ---
 
-### La Corruption
-
----
+## La Corruption
 
 ### Monarchie & Republique
 
 ==1997==: Proclamation de la **monarchie**
-====
+==
