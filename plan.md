@@ -7,3 +7,4 @@
 	1. Le but
 	2. Les capabilitées
 	3. L'ethique
+4. Conclusion

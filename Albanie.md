@@ -6,7 +6,7 @@
 #### De la république a la monarchie:
 
 L'Albanie est passer d'une république a une monarchie en 1928.
-En 1997
+En 1991
 
 L'Albanie était sous l'emprise d'une [[Corruption]].
 
