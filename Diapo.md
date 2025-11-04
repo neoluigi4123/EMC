@@ -27,4 +27,4 @@ Pont Jérémy & Aguilera-Laurens Néo
 ### Monarchie & Republique
 
 ==1997==: Proclamation de la **monarchie**
-==
+==date==: republique
