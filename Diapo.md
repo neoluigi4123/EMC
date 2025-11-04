@@ -26,6 +26,6 @@ Pont Jérémy & Aguilera-Laurens Néo
 
 ### Monarchie & Republique
 
-==1er septembre 1928==: Proclamation de la **monarchie**
+==1er septembre 1928==: Proclamation de la **Monarchie**
 
-==29 avril 1991==: Retour à 
+==29 avril 1991==: Retour à une **République**
