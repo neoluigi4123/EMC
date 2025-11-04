@@ -10,4 +10,4 @@ En 1991
 
 L'Albanie était sous l'emprise d'une [[Corruption]].
 
-## Déroulement des élections
+[[Dictature]]
