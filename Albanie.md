@@ -10,4 +10,4 @@ En 1991, retour à nouveau à une république.
 
 L'Albanie était sous l'emprise d'une [[Corruption]].
 
-[[Dictature]]
+**Président**: Bajram Begaj
