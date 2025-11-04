@@ -1,4 +1,4 @@
-# L'integration des ia dans la politique 
+# L'intégration des IA dans la politique 
 
 ---
 ## Définition:
