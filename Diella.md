@@ -5,4 +5,4 @@
 
 [[Ethique]]
 
-**Architecture**: Azure
+**Architecture**: Microsoft Azure (Proprietary)
