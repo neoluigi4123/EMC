@@ -5,3 +5,4 @@
 
 [[Ethique]]
 
+**Architecture**: Azure
