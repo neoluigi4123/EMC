@@ -4,3 +4,6 @@
 	3. Table des matières
 2. Situation de base l'Albanie
 3. Diella
+	1. Le but
+	2. Les capabilitées
+	3. L'ethique
