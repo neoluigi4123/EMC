@@ -4,7 +4,7 @@ Pont Jérémy & Aguilera-Laurens Néo
 
 ---
 
-## Le 1er ministre ia
+## La 1ère ministre ia
 
 #### Table des matière
 1. Mise-en-contexte
