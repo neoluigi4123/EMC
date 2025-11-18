@@ -34,3 +34,7 @@ Pont Jérémy & Aguilera-Laurens Néo
 ## Dictature
 
 **De 1945 à 1985, le pays a été dirigé d'une main de fer par Enver Hoxha, dictateur communiste**. L'Albanie était ainsi considérée en 1991 comme le pays le plus pauvre, le plus sous-développé et le plus isolé du continent européen, conséquence d'une politique de fermeture pratiquée depuis des décennies.
+
+---
+
+## La république avant l'apparition de Diella
