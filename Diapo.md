@@ -7,14 +7,19 @@ Pont Jérémy & Aguilera-Laurens Néo
 ## La 1ère ministre ia
 
 #### Table des matière
-1. Mise-en-contexte
-	1. Corruption
-	2. Monarchie & Republique
-2. Diella
-	1. Presentation visuelle
-	2. Comment elle fonctionne
-	3. Avantage & Inconvéniants
-3. Conclusion
+1. Intro
+	1. Présentation des membres
+	2. Présentation globale + Thématique
+	3. Table des matières
+2. Situation de base l'Albanie
+	1. Monarchie & Republique
+	2. Dictature
+	3. La république avant l'apparition de Diella
+3. Diella
+	1. Le but
+	2. Les capabilitées
+	3. L'ethique
+4. Conclusion
 
 ---
 
