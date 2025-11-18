@@ -23,7 +23,7 @@ Pont Jérémy & Aguilera-Laurens Néo
 
 ---
 
-## La Corrupt
+## Monarchie & Republique
 
 ==1er septembre 1928==: Proclamation de la **Monarchie**
 
@@ -31,4 +31,4 @@ Pont Jérémy & Aguilera-Laurens Néo
 
 ---
 
-## Dictature 
+## Dictature
