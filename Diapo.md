@@ -1,5 +1,5 @@
 ---
-theme: sky
+theme: moon
 transition: slide
 highlightTheme: monokai
 tags:
