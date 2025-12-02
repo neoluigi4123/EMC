@@ -3,6 +3,7 @@ theme: solarized
 transition: slide
 highlightTheme: monokai
 tags:
+cssclasses:
 ---
 
 # L'Albanie et l'IA
