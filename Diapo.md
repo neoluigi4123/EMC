@@ -1,5 +1,5 @@
 ---
-theme: night
+theme: solarized
 transition: slide
 highlightTheme: monokai
 tags:
