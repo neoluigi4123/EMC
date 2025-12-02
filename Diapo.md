@@ -2,6 +2,7 @@
 theme: solarized
 transition: slide
 highlightTheme: monokai
+tags:
 ---
 
 # L'Albanie et l'IA
@@ -19,7 +20,7 @@ highlightTheme: monokai
 
 ## 2. Le Problème : La Corruption
 
-![Corruption|300](https://cdn-icons-png.flaticon.com/512/2666/2666523.png)
+![Corruption|100](https://cdn-icons-png.flaticon.com/512/2666/2666523.png)
 
 *   **Secteur critique** : Les marchés publics (appels d'offres).
 *   **Mécanismes** : Favoritisme, pots-de-vin, opacité des décisions.
