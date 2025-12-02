@@ -11,6 +11,13 @@ cssclasses:
 
 ---
 
+<style>
+:root {
+    --r-main-font-size: 32px;
+    --r-heading-scale: 2.0;   /* Ajuste la taille des titres proportionnellement */
+}
+</style>
+
 ## 1. Contexte : L'Albanie Numérique
 
 *   **Objectif stratégique** : Adhésion à l'Union Européenne (horizon 2030).
