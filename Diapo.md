@@ -1,41 +1,90 @@
-# L'albanie
-et L'ia
+---
+theme: solarized
+transition: slide
+highlightTheme: monokai
+---
 
-Pont Jérémy & Aguilera-Laurens Néo
+# L'Albanie et l'IA
+## Une première mondiale contre la corruption
 
 ---
 
-## La 1ère ministre ia
+## 1. Contexte : L'Albanie Numérique
 
-#### Table des matière
-1. Situation de base l'Albanie
-	1. Monarchie & Republique
-	2. Dictature
-	3. La république avant l'apparition de Diella
-2. Diella
-	1. Le but
-	2. Les capabilitées
-	3. L'ethique
-3. Conclusion
+*   **Objectif stratégique** : Adhésion à l'Union Européenne (horizon 2030).
+*   **e-Albania** : Une plateforme gouvernementale déjà très avancée (95% des services publics dématérialisés).
+*   **Le défi majeur** : Une corruption endémique qui freine le développement et l'intégration européenne.
 
 ---
 
-# Mise en contexte
+## 2. Le Problème : La Corruption
+
+![Corruption|300](https://cdn-icons-png.flaticon.com/512/2666/2666523.png)<!-- element style="filter: invert(1);" -->
+
+*   **Secteur critique** : Les marchés publics (appels d'offres).
+*   **Mécanismes** : Favoritisme, pots-de-vin, opacité des décisions.
+*   **Conséquence** : Perte de confiance des citoyens et des investisseurs étrangers.
+
+> "La corruption est l'ennemi numéro 1 de notre avenir européen." — *Edi Rama*
 
 ---
 
-## Monarchie & Republique
+## 3. La Solution : Le Projet "Diella"
 
-==1er septembre 1928==: Proclamation de la **Monarchie**
+### Une Ministre IA ?
 
-==29 avril 1991==: Retour à une **République**
-
----
-
-## Dictature
-
-**De 1945 à 1985, le pays a été dirigé d'une main de fer par Enver Hoxha, dictateur communiste**. L'Albanie était ainsi considérée en 1991 comme le pays le plus pauvre, le plus sous-développé et le plus isolé du continent européen, conséquence d'une politique de fermeture pratiquée depuis des décennies.
+*   **Nom** : Diella (signifie "Soleil" en albanais).
+*   **Rôle** : Superviser les appels d'offres publics pour garantir la neutralité.
+*   **Origine** : Évolution de l'assistant virtuel d'e-Albania, développée en partenariat avec des géants de la tech (Microsoft).
 
 ---
 
-## La république avant l'apparition de Diella
+## 4. Fonctionnement de Diella
+
+<div class="grid grid-cols-2 gap-4">
+
+<div>
+
+**Ce qu'elle fait :**
+*   Analyse des milliers de documents en temps réel.
+*   Détection automatique des anomalies et des conflits d'intérêts.
+*   Classement neutre des offres selon des critères techniques.
+
+</div>
+
+<div>
+
+**La promesse :**
+*   **Transparence** : Traçabilité totale des décisions.
+*   **Impartialité** : Une IA ne prend pas de pots-de-vin.
+*   **Efficacité** : Réduction drastique des délais de traitement.
+
+</div>
+
+</div>
+
+---
+
+## 5. Enjeux Éthiques et Limites
+
+*   **Responsabilité** : Qui est responsable si Diella fait une erreur ? (Le développeur ? Le gouvernement ?).
+*   **Biais Algorithmiques** : L'IA peut reproduire des biais existants dans ses données d'entraînement.
+*   **Déshumanisation** : Peut-on confier la politique à une machine ?
+*   **Cybersécurité** : Risque de piratage ou de manipulation des données d'entrée.
+
+---
+
+## 6. Conclusion
+
+*   **Innovation ou Marketing ?** Un coup de projecteur mondial pour l'Albanie.
+*   **Un modèle pour l'avenir ?** Si l'expérience réussit, elle pourrait inspirer d'autres pays en développement.
+*   **Bilan** : L'IA est un outil puissant de surveillance, mais la volonté politique reste la clé de la lutte anti-corruption.
+
+---
+
+# Merci de votre attention
+
+*Avez-vous des questions ?*
+
+<br>
+<small>Projet EMC - Présentation sur l'Albanie et l'IA</small>
