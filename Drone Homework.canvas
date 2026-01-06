@@ -1,8 +1,6 @@
 {
 	"nodes":[
-		{"id":"64dcd402e4b5cfab","type":"text","text":"- **Energy:** Battery\n- **Design:** Needs to be light\n- **Sensor:** Gyroscope, height measurer, \n- **Safety:** System to detect obstacle","x":1345,"y":53,"width":250,"height":227},
-		{"id":"4179f9d7891d249b","type":"text","text":"**Uses of the drone**\n- **Cooking**\n- **Cleaning**\n- **Surveillance**\n- ","x":680,"y":-272,"width":250,"height":252},
-		{"id":"859a9247b781e146","type":"text","text":"**Use of drones linked to nature**\n- Stop fire\n- protect the wildlife\n- Organic","x":845,"y":53,"width":250,"height":200},
+		{"id":"64dcd402e4b5cfab","type":"text","text":"- **Energy:** Battery\n- **Design:** Robotic Arm\n- **Sensor:** Gyroscope, height measurer, High Quality Camera\n- **Safety:** System to detect obstacle","x":1345,"y":53,"width":250,"height":227},
 		{"id":"d3ad52740b398c5d","type":"text","text":"**Limit to the use of drones**\n- Cannot last for an infinite amount of time\n- Is simple to detect\n- Can be loud\n- Hard to control in remote areas or far away","x":1520,"y":-360,"width":250,"height":320},
 		{"id":"f9c77ff9d33f12a2","type":"text","text":"**Use of drones linked to human activities**\n- Find criminals\n- Locate lost persons\n- Racing (FPV drone)\n- swarm robotics (spectacle)","x":-610,"y":-32,"width":250,"height":252},
 		{"id":"9516b08e6e58982f","type":"text","text":"**Use of drones linked to nature**\n- Stop fire\n- protect the wildlife\n- Organic","x":-445,"y":293,"width":250,"height":200},
@@ -11,7 +9,8 @@
 		{"id":"b34e08d1e3756cca","type":"text","text":"- **Energy:** Battery\n- **Design:** Needs to be light\n- **Sensor:** Gyroscope, height measurer, \n- **Safety:** System to detect obstacle","x":55,"y":293,"width":250,"height":227},
 		{"id":"08b5217609566d20","type":"text","text":"**Limit to the use of drones**\n- Cannot last for an infinite amount of time\n- Is simple to detect\n- Can be loud\n- Hard to control in remote areas or far away","x":230,"y":-120,"width":250,"height":320},
 		{"id":"96d564b45baf5fdb","type":"text","text":"Our Drone\n# Agent-Drone","x":1095,"y":-221,"width":285,"height":150,"color":"4"},
-		{"id":"534984b512de360c","type":"text","text":"- **Location:** Forest\n- **Landscape:**\n- **Wildlife:** Birds, \n- **Environmental problems:** May disturb the wildlife.","x":1095,"y":-600,"width":250,"height":240}
+		{"id":"534984b512de360c","type":"text","text":"- **Location:** Forest\n- **Landscape:**\n- **Wildlife:** Birds, \n- **Environmental problems:** May disturb the wildlife.","x":1095,"y":-600,"width":250,"height":240},
+		{"id":"4179f9d7891d249b","type":"text","text":"**Uses of the drone**\n- **Cooking**\n- **Cleaning**\n- **Surveillance**\n- **Home Assis","x":680,"y":-272,"width":250,"height":252}
 	],
 	"edges":[
 		{"id":"7e7a48f28f8e58eb","fromNode":"b91a388cba3d9177","fromSide":"left","toNode":"f9c77ff9d33f12a2","toSide":"right"},
@@ -22,8 +21,7 @@
 		{"id":"96d350ad3564a656","fromNode":"96d564b45baf5fdb","fromSide":"left","toNode":"4179f9d7891d249b","toSide":"right"},
 		{"id":"1b2d820543b11abc","fromNode":"96d564b45baf5fdb","fromSide":"top","toNode":"534984b512de360c","toSide":"bottom"},
 		{"id":"a7377e3849cc6a67","fromNode":"96d564b45baf5fdb","fromSide":"right","toNode":"d3ad52740b398c5d","toSide":"left"},
-		{"id":"8526622c6486665d","fromNode":"96d564b45baf5fdb","fromSide":"bottom","toNode":"64dcd402e4b5cfab","toSide":"top"},
-		{"id":"3381fad4d0422e04","fromNode":"96d564b45baf5fdb","fromSide":"bottom","toNode":"859a9247b781e146","toSide":"top"}
+		{"id":"8526622c6486665d","fromNode":"96d564b45baf5fdb","fromSide":"bottom","toNode":"64dcd402e4b5cfab","toSide":"top"}
 	],
 	"metadata":{
 		"version":"1.0-1.0",
