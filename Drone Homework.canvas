@@ -12,7 +12,7 @@
 		{"id":"d3ad52740b398c5d","type":"text","text":"**Limit to the use of drones**\n- Cannot last for an infinite amount of time\n- Can be loud","x":1520,"y":-253,"width":250,"height":214},
 		{"id":"64dcd402e4b5cfab","type":"text","text":"- **Energy:** Battery\n- **Design:** Robotic Arm embedded\n- **Sensor:** Gyroscope, height sensor, High Quality Camera\n- **Safety:** System to detect human","x":1220,"y":40,"width":250,"height":260},
 		{"id":"83d72e9e122e8b7a","x":818,"y":127,"width":250,"height":233,"type":"text","text":"**Robotic Arm**\n- "},
-		{"id":"c1f5663fb55dfe00","x":158,"y":-540,"width":250,"height":60,"type":"text","text":"**I"}
+		{"id":"c1f5663fb55dfe00","x":158,"y":-540,"width":250,"height":120,"type":"text","text":"**Information:**\n- **Duration length:**\n- **Max Slides:**"}
 	],
 	"edges":[
 		{"id":"7e7a48f28f8e58eb","fromNode":"b91a388cba3d9177","fromSide":"left","toNode":"f9c77ff9d33f12a2","toSide":"right"},
