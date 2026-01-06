@@ -12,7 +12,8 @@
 		{"id":"d3ad52740b398c5d","type":"text","text":"# **Limit to the use of drones**\n- Cannot last for an infinite amount of time\n- Can be loud","x":1540,"y":-360,"width":440,"height":146},
 		{"id":"4179f9d7891d249b","type":"text","text":"# **Uses of the drone**\n- **Cooking**\n- **Cleaning**\n- **Surveillance**\n- **AI Home Assistant**","x":660,"y":-287,"width":320,"height":201},
 		{"id":"c1f5663fb55dfe00","type":"text","text":"**Information:**\n- **Duration length:** 4 min (2x2min)\n- **Max Slides:** 4-6","x":480,"y":-660,"width":250,"height":220,"color":"2"},
-		{"id":"0b46697f907c0e79","type":"text","text":"# **Design**\n- Lightweight Drone\n- Robotic Arm\n- Wi-Fi\n- AI integration (cloud)\n- Vision processing (local)\n- Microphone\n- Speaker","x":1600,"y":-71,"width":250,"height":300,"color":"5"}
+		{"id":"65f84d575aacaf9f","x":1960,"y":140,"width":250,"height":417,"color":"6","type":"text","text":"# Robotic Arm\n- Stabilisater"},
+		{"id":"0b46697f907c0e79","type":"text","text":"# **Design**\n- Lightweight Drone\n- Robotic Arm\n- Wi-Fi\n- AI integration (cloud)\n- Vision processing (local)\n- Microphone\n- Speaker","x":1540,"y":-105,"width":260,"height":300,"color":"5"}
 	],
 	"edges":[
 		{"id":"7e7a48f28f8e58eb","fromNode":"b91a388cba3d9177","fromSide":"left","toNode":"f9c77ff9d33f12a2","toSide":"right"},
@@ -25,7 +26,9 @@
 		{"id":"a7377e3849cc6a67","fromNode":"96d564b45baf5fdb","fromSide":"right","toNode":"d3ad52740b398c5d","toSide":"left"},
 		{"id":"6b64b835d8dfe30b","fromNode":"96d564b45baf5fdb","fromSide":"bottom","toNode":"64dcd402e4b5cfab","toSide":"top"},
 		{"id":"108430b562fcbe57","fromNode":"96d564b45baf5fdb","fromSide":"right","toNode":"0b46697f907c0e79","toSide":"left"},
-		{"id":"87c158969122f07f","fromNode":"64dcd402e4b5cfab","fromSide":"right","toNode":"0b46697f907c0e79","toSide":"left"}
+		{"id":"87c158969122f07f","fromNode":"64dcd402e4b5cfab","fromSide":"right","toNode":"0b46697f907c0e79","toSide":"left"},
+		{"id":"459b7e82a9e7fb05","fromNode":"0b46697f907c0e79","fromSide":"right","toNode":"65f84d575aacaf9f","toSide":"left"},
+		{"id":"e33993f470187293","fromNode":"64dcd402e4b5cfab","fromSide":"right","toNode":"65f84d575aacaf9f","toSide":"left"}
 	],
 	"metadata":{
 		"version":"1.0-1.0",
