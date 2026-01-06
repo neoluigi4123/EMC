@@ -1,7 +1,7 @@
 {
 	"nodes":[
 		{"id":"64dcd402e4b5cfab","type":"text","text":"- **Energy:** Battery\n- **Design:** Needs to be light\n- **Sensor:** Gyroscope, height measurer, \n- **Safety:** System to detect obstacle","x":1345,"y":53,"width":250,"height":227},
-		{"id":"4179f9d7891d249b","type":"text","text":"**Uses of the drone**\n- ","x":680,"y":-272,"width":250,"height":252},
+		{"id":"4179f9d7891d249b","type":"text","text":"**Uses of the drone**\n- **Cooking**\n- **Cleaning**\n- **Surveillance**\n- ","x":680,"y":-272,"width":250,"height":252},
 		{"id":"859a9247b781e146","type":"text","text":"**Use of drones linked to nature**\n- Stop fire\n- protect the wildlife\n- Organic","x":845,"y":53,"width":250,"height":200},
 		{"id":"d3ad52740b398c5d","type":"text","text":"**Limit to the use of drones**\n- Cannot last for an infinite amount of time\n- Is simple to detect\n- Can be loud\n- Hard to control in remote areas or far away","x":1520,"y":-360,"width":250,"height":320},
 		{"id":"f9c77ff9d33f12a2","type":"text","text":"**Use of drones linked to human activities**\n- Find criminals\n- Locate lost persons\n- Racing (FPV drone)\n- swarm robotics (spectacle)","x":-610,"y":-32,"width":250,"height":252},
