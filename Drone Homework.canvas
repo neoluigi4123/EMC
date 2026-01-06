@@ -10,7 +10,7 @@
 		{"id":"c1f5663fb55dfe00","type":"text","text":"**Information:**\n- **Duration length:**\n- **Max Slides:**","x":260,"y":-660,"width":250,"height":220,"color":"2"},
 		{"id":"534984b512de360c","type":"text","text":"- **Location:** Indoor, Garden, Balcony","x":1095,"y":-440,"width":250,"height":80},
 		{"id":"64dcd402e4b5cfab","type":"text","text":"# Requirements\n- **Energy:** Battery\n- **Design:** Robotic Arm embedded\n- **Sensor:** Gyroscope, height sensor, High Quality Camera, Internet\n- **Safety:** System to detect human\n- Need to lift at least 1 item\n- Can lift 1 kg","x":1060,"y":45,"width":250,"height":416},
-		{"id":"0b46697f907c0e79","type":"text","text":"# **Design**\n- Lightweight Drone\n- Robotic Arm\n- AI integration (cloud)\n- Microphone\n- ","x":1600,"y":-100,"width":250,"height":289,"color":"5"},
+		{"id":"0b46697f907c0e79","type":"text","text":"# **Design**\n- Lightweight Drone\n- Robotic Arm\n- Wi-Fi\n- AI integration (cloud)\n- Vision processing (local)\n- Microphone\n- Speaker\n- ","x":1600,"y":-100,"width":250,"height":289,"color":"5"},
 		{"id":"d3ad52740b398c5d","type":"text","text":"# **Limit to the use of drones**\n- Cannot last for an infinite amount of time\n- Can be loud","x":1540,"y":-360,"width":440,"height":146},
 		{"id":"4179f9d7891d249b","type":"text","text":"# **Uses of the drone**\n- **Cooking**\n- **Cleaning**\n- **Surveillance**\n- **AI Home Assistant**","x":660,"y":-287,"width":320,"height":201}
 	],
