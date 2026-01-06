@@ -12,7 +12,7 @@
 		{"id":"d3ad52740b398c5d","type":"text","text":"# **Limit to the use of drones**\n- Cannot last for an infinite amount of time\n- Can be loud","x":1540,"y":-360,"width":440,"height":146},
 		{"id":"4179f9d7891d249b","type":"text","text":"# **Uses of the drone**\n- **Cooking**\n- **Cleaning**\n- **Surveillance**\n- **AI Home Assistant**","x":660,"y":-287,"width":320,"height":201},
 		{"id":"c1f5663fb55dfe00","type":"text","text":"**Information:**\n- **Duration length:** 4 min (2x2min)\n- **Max Slides:** 4-6","x":480,"y":-660,"width":250,"height":220,"color":"2"},
-		{"id":"65f84d575aacaf9f","x":1960,"y":140,"width":250,"height":417,"color":"6","type":"text","text":"# Robotic Arm\n- Gimbals\n- "},
+		{"id":"65f84d575aacaf9f","x":1960,"y":140,"width":250,"height":417,"color":"6","type":"text","text":"# Robotic Arm\n- Gimbals\n- Computer Vision (to detect objects and human)\n- Hand (to grab things)"},
 		{"id":"0b46697f907c0e79","type":"text","text":"# **Design**\n- Lightweight Drone\n- Robotic Arm\n- Wi-Fi\n- AI integration (cloud)\n- Vision processing (local)\n- Microphone\n- Speaker","x":1540,"y":-105,"width":260,"height":300,"color":"5"}
 	],
 	"edges":[
