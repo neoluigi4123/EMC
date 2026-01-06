@@ -5,7 +5,7 @@
 		{"id":"ecc88cfa6b0610d3","type":"text","text":"- **Location:** Forest\n- **Landscape:**\n- **Wildlife:** Birds, \n- **Environmental problems:** May disturb the wildlife.","x":-180,"y":-360,"width":250,"height":240},
 		{"id":"f9c77ff9d33f12a2","type":"text","text":"**Use of drones linked to human activities**\n- Find criminals\n- Locate lost persons\n- Racing (FPV drone)\n- swarm robotics (spectacle)","x":-540,"y":-112,"width":250,"height":252},
 		{"id":"9516b08e6e58982f","type":"text","text":"**Use of drones linked to nature**\n- Stop fire\n- protect the wildlife\n- Organic","x":-375,"y":213,"width":250,"height":200},
-		{"id":"08b5217609566d20","type":"text","text":"**Limit to the use of drones**\n- Cannot last for an infinite amount of time\n- Is simple to detect\n- Can be loud\n- Hard to control in remote areas or far away","x":300,"y":-200,"width":250,"height":300}
+		{"id":"08b5217609566d20","type":"text","text":"**Limit to the use of drones**\n- Cannot last for an infinite amount of time\n- Is simple to detect\n- Can be loud\n- Hard to control in remote areas or far away","x":300,"y":-200,"width":250,"height":320}
 	],
 	"edges":[
 		{"id":"7e7a48f28f8e58eb","fromNode":"b91a388cba3d9177","fromSide":"left","toNode":"f9c77ff9d33f12a2","toSide":"right"},
