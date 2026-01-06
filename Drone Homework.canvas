@@ -10,7 +10,7 @@
 		{"id":"534984b512de360c","type":"text","text":"- **Location:** Indoor, Garden, Balcony","x":1095,"y":-440,"width":250,"height":80},
 		{"id":"4179f9d7891d249b","type":"text","text":"**Uses of the drone**\n- **Cooking**\n- **Cleaning**\n- **Surveillance**\n- **AI Home Assistant**","x":680,"y":-272,"width":250,"height":252},
 		{"id":"d3ad52740b398c5d","type":"text","text":"**Limit to the use of drones**\n- Cannot last for an infinite amount of time\n- Can be loud","x":1520,"y":-253,"width":250,"height":214},
-		{"id":"83d72e9e122e8b7a","x":818,"y":127,"width":250,"height":233,"type":"text","text":"**Robotic Arm**\n- "},
+		{"id":"83d72e9e122e8b7a","x":818,"y":127,"width":250,"height":233,"type":"text","text":"**Robotic Arm**\n- Need to lift at least 1 item\n- "},
 		{"id":"c1f5663fb55dfe00","x":260,"y":-660,"width":250,"height":220,"color":"2","type":"text","text":"**Information:**\n- **Duration length:**\n- **Max Slides:**"},
 		{"id":"64dcd402e4b5cfab","type":"text","text":"- **Energy:** Battery\n- **Design:** Robotic Arm embedded\n- **Sensor:** Gyroscope, height sensor, High Quality Camera, Internet\n- **Safety:** System to detect human","x":1320,"y":60,"width":250,"height":280}
 	],
