@@ -12,7 +12,7 @@
 		{"id":"d3ad52740b398c5d","type":"text","text":"**Limit to the use of drones**\n- Cannot last for an infinite amount of time\n- Can be loud","x":1520,"y":-253,"width":250,"height":214},
 		{"id":"83d72e9e122e8b7a","type":"text","text":"**Robotic Arm**\n- Need to lift at least 1 item\n- ","x":818,"y":127,"width":250,"height":233},
 		{"id":"c1f5663fb55dfe00","type":"text","text":"**Information:**\n- **Duration length:**\n- **Max Slides:**","x":260,"y":-660,"width":250,"height":220,"color":"2"},
-		{"id":"64dcd402e4b5cfab","type":"text","text":"- **Energy:** Battery\n- **Design:** Robotic Arm embedded\n- **Sensor:** Gyroscope, height sensor, High Quality Camera, Internet\n- **Safety:** System to detect human","x":1320,"y":60,"width":250,"height":280}
+		{"id":"64dcd402e4b5cfab","type":"text","text":"- **Energy:** Battery\n- **Design:** Robotic Arm embedded\n- **Sensor:** Gyroscope, height sensor, High Quality Camera, Internet\n- **Safety:** System to detect human","x":1300,"y":80,"width":250,"height":280}
 	],
 	"edges":[
 		{"id":"7e7a48f28f8e58eb","fromNode":"b91a388cba3d9177","fromSide":"left","toNode":"f9c77ff9d33f12a2","toSide":"right"},
@@ -24,7 +24,7 @@
 		{"id":"1b2d820543b11abc","fromNode":"96d564b45baf5fdb","fromSide":"top","toNode":"534984b512de360c","toSide":"bottom"},
 		{"id":"a7377e3849cc6a67","fromNode":"96d564b45baf5fdb","fromSide":"right","toNode":"d3ad52740b398c5d","toSide":"left"},
 		{"id":"e131e8fe8129df8d","fromNode":"96d564b45baf5fdb","fromSide":"bottom","toNode":"83d72e9e122e8b7a","toSide":"top"},
-		{"id":"8526622c6486665d","fromNode":"96d564b45baf5fdb","fromSide":"bottom","toNode":"64dcd402e4b5cfab","toSide":"top"}
+		{"id":"6b64b835d8dfe30b","fromNode":"96d564b45baf5fdb","fromSide":"bottom","toNode":"64dcd402e4b5cfab","toSide":"top"}
 	],
 	"metadata":{
 		"version":"1.0-1.0",
