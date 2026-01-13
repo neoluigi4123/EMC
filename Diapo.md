@@ -41,9 +41,6 @@ cssclasses:
 ## 3. La Solution : Le Projet "Diella"
 
 ### Une Ministre IA ?
-
-[!grid-card-3]
-
 ![[image-Photoroom.png|600]]
 *   **Nom** : Diella (signifie "Soleil" en albanais).
 *   **Rôle** : Superviser les appels d'offres publics pour garantir la neutralité.
