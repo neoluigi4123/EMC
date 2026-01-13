@@ -97,7 +97,10 @@ cssclasses:
 <br>
 <small>Projet EMC - Présentation sur l'Albanie et l'IA</small>
 
-<
+<style>
+    --r-main-font-size: 2px;
+	--r-heading-scale: 2.0;
+</style>
 # Source
 1. [uliege.be](https://www.google.com/url?sa=E&q=https%3A%2F%2Fvertexaisearch.cloud.google.com%2Fgrounding-api-redirect%2FAUZIYQHvtFh9RnMsZbDJeLRy-hc4Ocm-OJiixLjn4RTWa1fuVdeBVbjDNYcESnnAy_shuow6RqfpqaKZVwigSabY9902Sp6Yl14MgxZOyFnUNIMcqwnKAgVEQiV04xTxOoRoWNntGk7qbLiyOSSS7ovYaCyyq24WINevnqa_OG4WchY2jjKN1C7o3LAz8vcn3oiqYC22BexwkeDgmmsXEJDEpTqSkBj9wLkfQU_GgOc6qgHmSEioohSoduVpSosCURBQvjNRgz5DjQxGBC3ujOidhIcI6A%3D%3D)
 2. [wizcase.com](https://www.google.com/url?sa=E&q=https%3A%2F%2Fvertexaisearch.cloud.google.com%2Fgrounding-api-redirect%2FAUZIYQG70Psr1JPbmhaTQRQ52F_bWBw3JQhU0nu-grHgeDLD8fK2C9YSO3zy3_vaf5pzrgrwcuwwoTFqK-5mKYbjpbroAH_DVlfp_h_qlSFZ_-9-uQXC_4EKD_9eFc38R1bqyHed09Jzgn4vHqnahw5Ee1epg6eBMf_2WxZmUEdYZ_lSIQBiJw%3D%3D)
