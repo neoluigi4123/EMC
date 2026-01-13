@@ -51,6 +51,9 @@ cssclasses:
 *   **Origine** : Évolution de l'assistant virtuel d'e-Albania, développée en partenariat avec des géants de la tech (Microsoft).
 
 </div>
+
+</div>
+
 ---
 
 ## 4. Fonctionnement de Diella
